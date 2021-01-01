@@ -348,3 +348,5 @@ fabric.properties
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,flask,pycharm,vscode
+
+flask_session/
